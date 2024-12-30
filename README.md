@@ -25,7 +25,7 @@ Or
    ```
 
 2. Run the compile binary file for the specific day of the challenge:
-    ```haskell
+    ```bash
     ./<day>  
     ```
 **Merry Christmas to everyone and Happy Holidays!** 🌟🎅🎁  
